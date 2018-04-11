@@ -1,2 +1,2 @@
 # Hello_World
-Hello Word all time starter project
+Hello World, an all time starter project for first time code beginners
